@@ -1,10 +1,9 @@
 # Keywords
 1.**CPU**:The CPU, or Central Processing Unit, is often referred to as the "brain" of a computer. It's responsible for executing instructions from programs and performing calculations. Essentially, it processes the data and instructions necessary to run software and manage hardware.<BR/>
 ![image](https://github.com/user-attachments/assets/3e73abdf-a727-4f58-bf36-1e1a6b4d652e)
-
 <BR/>
 <BR/>
-2.**GPU**:Graphics Processing Unit, is a specialized processor primarily designed to handle and accelerate graphical computations. While it was initially developed to render images and video on screens, modern GPUs have evolved into highly versatile processors used for a wide range of computational tasks.<BR/>
+2.**GPU** :Graphics Processing Unit, is a specialized processor primarily designed to handle and accelerate graphical computations. While it was initially developed to render images and video on screens, modern GPUs have evolved into highly versatile processors used for a wide range of computational tasks.<BR/>
 <BR/>
 <BR/>
 3.**NETWORK**:Networking involves the practice of connecting computers and other devices to share resources and information. This can include everything from local networks within a home or office to vast global networks like the Internet.<BR/>

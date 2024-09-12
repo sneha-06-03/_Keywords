@@ -56,6 +56,14 @@ _**INTERNET PROTOCOLS**_:<BR/>
 ![image](https://github.com/user-attachments/assets/d4fc9427-66d8-49d5-936a-a1fd34c22d98)
 <BR/>
 <BR/>
+**VPN**:A VPN (Virtual Private Network) is a technology that allows users to securely connect to the internet by routing their connection through an encrypted tunnel to a remote server. <BR/>
+![image](https://github.com/user-attachments/assets/e6750b37-7f6f-4cc5-a725-a3dfcf1a6a6b)
+<BR/>
+<BR/>
+**BLOCKCHAIN**:A blockchain is a distributed digital ledger technology that securely records and stores data across a network of computers (or nodes). It is designed to be decentralized, transparent, and tamper-resistant, making it useful for various applications, most notably cryptocurrencies like Bitcoin. <BR/>
+![image](https://github.com/user-attachments/assets/50ba0fc7-c032-4d91-9dcf-b1d7ce07bbd0)
+<BR/>
+<BR/>
 
 
 

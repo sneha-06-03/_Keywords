@@ -72,6 +72,16 @@ _**INTERNET PROTOCOLS**_:<BR/>
 _Real-Time Threat Response_: Having a SOC enables organizations to detect and respond to security incidents much faster than they could without one.<BR/>
 _Proactive Threat Detection_: SOC teams don’t just react to attacks but actively look for vulnerabilities and potential threats to prevent incidents.<BR/>
 _Regulatory Compliance_: Many industries (finance, healthcare, etc.) are required by law to have strong security practices, and a SOC helps ensure compliance with regulations like GDPR, HIPAA, and others.<BR/>
+<BR/>
+<BR/>
+**FRONTEND**: Frontend refers to the part of a web application or website that users interact with directly. It involves everything that users see and experience in their browsers, including the layout, design, buttons, text, images, and overall user interface (UI).<BR/>
+<BR/>
+<BR/>
+**API**: An API (Application Programming Interface) is a set of rules and protocols that allow different software applications to communicate with each other. It defines how requests for information or services should be made between systems, enabling developers to access the functionality of one application from another without needing to understand the underlying code.<BR/>
+<BR/>
+<BR/>
+**BACKEND**: Backend refers to the server-side of a web application or website, responsible for managing the behind-the-scenes functionality that powers the frontend. While users don’t directly interact with the backend, it handles important tasks such as data processing, storage, security, and logic, enabling the frontend to display content and respond to user actions effectively.<BR/>
+<BR/>
 
 
 

@@ -40,6 +40,10 @@ _**INTERNET PROTOCOLS**_:<BR/>
 **_Application Layer_**: Network services to end-user applications.<BR/>
 <BR/>
 <BR/>
+6.**ASIC**:An ASIC (Application-Specific Integrated Circuit) is a type of integrated circuit designed for a specific application or task, rather than for general-purpose use. Unlike general-purpose processors (like CPUs), which are designed to handle a wide range of tasks, ASICs are tailored to perform a particular function with high efficiency and speed.<BR/>
+![image](https://github.com/user-attachments/assets/64e0075b-f123-4984-9749-929c4c1e293c)
+<BR/>
+<BR/>
 
 __OPERATING SYSTEM (OS)__:It is the essential software that manages a computer's hardware and software resources.It acts as an intermediary between the user and the computer, providing a platform for applications to run and interact with the hardware.<br/>
 ![image](https://github.com/user-attachments/assets/6777a1f1-17a6-4bbe-8475-2642eb19640a)

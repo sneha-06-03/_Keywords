@@ -8,6 +8,7 @@
 <BR/>
 <BR/>
 3.**NETWORK**:Networking involves the practice of connecting computers and other devices to share resources and information. This can include everything from local networks within a home or office to vast global networks like the Internet.<BR/>
+![image](https://github.com/user-attachments/assets/28f6bbaa-239d-429a-ad05-e3d6fe490ced)
 <BR/>
 _**NETWORK TYPES**_:<BR/>
 <BR/>
@@ -19,6 +20,7 @@ _**NETWORK TYPES**_:<BR/>
 <BR/>
 4.**INTERNET**:The Internet is a vast, global network of interconnected computers and servers that communicate with each other using standard protocols. It allows people and devices to exchange information, access resources, and interact across the world. <BR/>
 <BR/>
+![image](https://github.com/user-attachments/assets/73dcd587-ff71-4e49-858d-bc8278dc4fe9)
 _**INTERNET PROTOCOLS**_:<BR/>
 <BR/>
 **TCP/IP (Transmission Control Protocol/Internet Protocol)**:The foundational suite of protocols for the Internet. TCP handles data transmission, ensuring packets are delivered correctly and in order, while IP handles addressing and routing.<BR/>
@@ -28,6 +30,7 @@ _**INTERNET PROTOCOLS**_:<BR/>
 <BR/>
 5.**7 LAYERS OF OSI MODEL**:The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and standardize the functions of a networking system. It divides the networking process into seven distinct layers, each with specific responsibilities<BR/>
 <BR/>
+![image](https://github.com/user-attachments/assets/def22010-f46f-49f5-93a0-55e96d54ff57)
 **_Physical Layer_**: Transmission of raw bit streams over a physical medium.<BR/>
 **_DatPa Link Layer_**: Error detection and correction, framing, and MAC addressing.<BR/>
 **_Network Layer_**: Routing of data packets across networks.<BR/>

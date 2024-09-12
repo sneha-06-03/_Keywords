@@ -82,7 +82,10 @@ _Regulatory Compliance_: Many industries (finance, healthcare, etc.) are require
 <BR/>
 **BACKEND**: Backend refers to the server-side of a web application or website, responsible for managing the behind-the-scenes functionality that powers the frontend. While users don’t directly interact with the backend, it handles important tasks such as data processing, storage, security, and logic, enabling the frontend to display content and respond to user actions effectively.<BR/>
 <BR/>
-
+<BR/>
+**VIRTUAL MACHINE**: A Virtual Machine (VM) is a software-based emulation of a physical computer that runs an operating system (OS) and applications just like a physical machine. Virtual machines allow multiple operating systems to run on a single physical machine, each in its own isolated environment. <BR/>
+<BR/>
+<BR/>
 
 
 

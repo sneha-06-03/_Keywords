@@ -4,6 +4,7 @@
 <BR/>
 <BR/>
 2.**GPU** :Graphics Processing Unit, is a specialized processor primarily designed to handle and accelerate graphical computations. While it was initially developed to render images and video on screens, modern GPUs have evolved into highly versatile processors used for a wide range of computational tasks.<BR/>
+![image](https://github.com/user-attachments/assets/e6004f18-2c0f-46aa-a89a-b5ca1148abc4)
 <BR/>
 <BR/>
 3.**NETWORK**:Networking involves the practice of connecting computers and other devices to share resources and information. This can include everything from local networks within a home or office to vast global networks like the Internet.<BR/>

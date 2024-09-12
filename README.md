@@ -64,6 +64,15 @@ _**INTERNET PROTOCOLS**_:<BR/>
 ![image](https://github.com/user-attachments/assets/50ba0fc7-c032-4d91-9dcf-b1d7ce07bbd0)
 <BR/>
 <BR/>
+**SOC**:SOC stands for Security Operations Center, a centralized unit within an organization that focuses on monitoring, detecting, responding to, and analyzing security incidents and threats in real-time. SOCs are critical for maintaining cybersecurity in an organization by ensuring continuous protection of networks, systems, and data.<BR/>
+<BR/>
+![image](https://github.com/user-attachments/assets/b2ecdb34-113f-4891-b6bc-aa1856fb87ac)
+<BR/>
+**_IMPORTANCE OF SOC_**:<BR/>
+Real-Time Threat Response: Having a SOC enables organizations to detect and respond to security incidents much faster than they could without one.<BR/>
+Proactive Threat Detection: SOC teams don’t just react to attacks but actively look for vulnerabilities and potential threats to prevent incidents.<BR/>
+Regulatory Compliance: Many industries (finance, healthcare, etc.) are required by law to have strong security practices, and a SOC helps ensure compliance with regulations like GDPR, HIPAA, and others.<BR/>
+
 
 
 

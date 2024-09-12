@@ -26,12 +26,12 @@ _**INTERNET PROTOCOLS**_:<BR/>
 <BR/>
 5.**7 LAYERS OF OSI MODEL**:The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and standardize the functions of a networking system. It divides the networking process into seven distinct layers, each with specific responsibilities<BR/>
 <BR/>
-**_Physical Layer_**: Transmission of raw bit streams over a physical medium.
-**_DatPa Link Layer_**: Error detection and correction, framing, and MAC addressing.
-**_Network Layer_**: Routing of data packets across networks.
-**_Transport Layer_**: Reliable data transfer and flow control.
-**_Session Layer_**: Session management and control.
-**_Presentation Layer_**: Data translation, encryption, and compression.
+**_Physical Layer_**: Transmission of raw bit streams over a physical medium.<BR/>
+**_DatPa Link Layer_**: Error detection and correction, framing, and MAC addressing.<BR/>
+**_Network Layer_**: Routing of data packets across networks.<BR/>
+**_Transport Layer_**: Reliable data transfer and flow control.<BR/>
+**_Session Layer_**: Session management and control.<BR/>
+**_Presentation Layer_**: Data translation, encryption, and compression.<BR/>
 **_Application Layer_**: Network services to end-user applications.<BR/>
 <BR/>
 <BR/>

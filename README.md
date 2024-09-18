@@ -146,27 +146,27 @@ Hypervisor, also known as a virtual machine monitor (VMM), is software that allo
 2. **_Type  Hypervisor (Hosted)_**: Runs on top of a host operating system. Examples include VMware Workstation and Oracle VirtualBox. While easier to set up, Type 2 hypervisors may have slightly lower performance due to the additional layer.<BR/>
 <BR/>
 <BR/>
-# PROXY SERVER:
+# **PROXY SERVER**:
 A proxy server acts as an intermediary between a client (such as your computer) and the internet. It can mask your IP address, filter content, improve security, and cache data to improve performance.<BR/>
 <BR/>
 <BR/>
-# APACHE:
+# **APACHE**:
 Apache refers to the Apache HTTP Server, often simply called Apache, which is one of the most popular and widely-used web server software packages in the world. Developed and maintained by the Apache Software Foundation, it is open-source, meaning it is free and accessible for anyone to use and modify.<BR/>
 <BR/>
 <BR/>
-# PACKETS:
+# **PACKETS**:
 In computer networking, a packet is a small unit of data that is transmitted over a network. When you send data over the internet or any network, the information is broken down into smaller pieces called packets. These packets are then sent individually and reassembled by the recipient’s device to recreate the original message or file.<BR/>
 <BR/>
 <BR/>
-# LOAD BALANCER:
+# **LOAD BALANCER**:
 A load balancer is a device or software that distributes incoming network traffic across multiple servers to ensure that no single server becomes overwhelmed with requests. By balancing the load evenly, it helps optimize resource use, minimize response time, and prevent server overloads. Load balancers are commonly used in high-traffic environments like large websites, cloud services, and applications.<BR/>
 <BR/>
 <BR/>
-# VON NEUMANN ARCHITECTURE:
+# **VON NEUMANN ARCHITECTURE**:
 The Von Neumann architecture is a computer design model that describes the structure of a stored-program digital computer. Named after mathematician and physicist John von Neumann, it forms the foundation of most modern computers and defines how they process instructions.<BR/>
 <BR/>
 <BR/>
-# DevOps:
+# **DevOps**:
 DevOps is a set of practices, tools, and a culture aimed at automating and integrating the processes between software development (Dev) and IT operations (Ops). Its goal is to shorten the software development life cycle and provide continuous delivery with high software quality. DevOps promotes collaboration between development and operations teams, allowing organizations to build, test, and release software more rapidly and reliably.<BR/>
 <BR/>
 <BR/>

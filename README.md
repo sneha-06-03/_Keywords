@@ -103,8 +103,13 @@ A Virtual Machine (VM) is a software-based emulation of a physical computer that
 <BR/>
 <BR/>
 **SSL**:<BR/>
-SSL stands for Secure Sockets Layer, a protocol that encrypts and secures data sent between two devices or applications on the internet. It's used to establish trust and authenticate the other party before sharing data or credentials.
+SSL stands for Secure Sockets Layer, a protocol that encrypts and secures data sent between two devices or applications on the internet. It's used to establish trust and authenticate the other party before sharing data or credentials. <br/>
+<br/>
+<br/>
 **FPGA**:<BR/>
+Field-Programmable Gate Array (FPGA) is an integrated circuit that can be programmed and reprogrammed after manufacturing. It's essentially a highly flexible and reusable digital circuit.<br/>
+<br/>
+<br/>
 
 
 

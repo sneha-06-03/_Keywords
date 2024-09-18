@@ -120,7 +120,9 @@ Internet Service Provider (ISP) is a company that provides internet access and r
 DSL stands for Digital Subscriber Line. It is a technology used to transmit high-speed internet over traditional telephone lines. DSL allows for internet and voice services to be used simultaneously, enabling faster data rates than standard dial-up connections. There are different types of DSL, such as ADSL (Asymmetric DSL), which is more common for residential use, and SDSL (Symmetric DSL), which provides equal upload and download speeds. DSL is popular in many areas due to its ability to leverage existing infrastructure.<BR/>
 <BR/>
 <BR/>
-#CABLE:
+# CABLE:
 Cable internet is a high-speed internet service that uses coaxial cable lines, the same infrastructure that delivers cable television. It typically provides faster speeds than DSL because it can carry more data.
+# FIBRE OPTICS:
+Fiber optics is a technology that uses thin strands of glass or plastic (fiber) to transmit data as light signals. This allows for extremely high-speed internet connections with greater bandwidth than traditional copper cables like those used in DSL and cable internet.
 
 

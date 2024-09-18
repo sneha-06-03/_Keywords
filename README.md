@@ -126,4 +126,14 @@ Cable internet is a high-speed internet service that uses coaxial cable lines, t
 Fiber optics is a technology that uses thin strands of glass or plastic (fiber) to transmit data as light signals. This allows for extremely high-speed internet connections with greater bandwidth than traditional copper cables like those used in DSL and cable internet.
 # SATELLITE:
 Satellite internet is a type of internet connection that uses satellites to provide access to the internet. It’s particularly useful in rural or remote areas where traditional wired connections like DSL or cable may not be available. 
+# DNS:
+DNS, or Domain Name System, is a hierarchical system used to translate human-readable domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network. This process enables users to access websites using easy-to-remember names instead of numeric addresses.
+# HYPERVISOR:
+Hypervisor, also known as a virtual machine monitor (VMM), is software that allows multiple operating systems to run concurrently on a single physical machine. It creates and manages virtual machines (VMs), enabling better resource utilization and isolation.
+<br/>
+<br/>
+1. **_Type 1 Hypervisor (Bare-Metal)_**: Runs directly on the hardware without a host operating system. Examples include VMware ESXi, Microsoft Hyper-V, and Xen. Type 1 hypervisors generally offer better performance and efficiency.
+
+
+2. **_Type  Hypervisor (Hosted)_**: Runs on top of a host operating system. Examples include VMware Workstation and Oracle VirtualBox. While easier to set up, Type 2 hypervisors may have slightly lower performance due to the additional layer.
 

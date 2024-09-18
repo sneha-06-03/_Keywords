@@ -136,4 +136,9 @@ Hypervisor, also known as a virtual machine monitor (VMM), is software that allo
 
 
 2. **_Type  Hypervisor (Hosted)_**: Runs on top of a host operating system. Examples include VMware Workstation and Oracle VirtualBox. While easier to set up, Type 2 hypervisors may have slightly lower performance due to the additional layer.
-
+# PROXY SERVER:
+A proxy server acts as an intermediary between a client (such as your computer) and the internet. It can mask your IP address, filter content, improve security, and cache data to improve performance.
+# APACHE:
+Apache refers to the Apache HTTP Server, often simply called Apache, which is one of the most popular and widely-used web server software packages in the world. Developed and maintained by the Apache Software Foundation, it is open-source, meaning it is free and accessible for anyone to use and modify.
+# PACKETS:
+In computer networking, a packet is a small unit of data that is transmitted over a network. When you send data over the internet or any network, the information is broken down into smaller pieces called packets. These packets are then sent individually and reassembled by the recipient’s device to recreate the original message or file.

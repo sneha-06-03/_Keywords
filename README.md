@@ -1,4 +1,4 @@
-# Keywords
+# KEYWORDS
 # **CPU**:<BR/>
 The CPU, or Central Processing Unit, is often referred to as the "brain" of a computer. It's responsible for executing instructions from programs and performing calculations. Essentially, it processes the data and instructions necessary to run software and manage hardware.<BR/>
 ![image](https://github.com/user-attachments/assets/3e73abdf-a727-4f58-bf36-1e1a6b4d652e)
@@ -121,25 +121,39 @@ DSL stands for Digital Subscriber Line. It is a technology used to transmit high
 <BR/>
 <BR/>
 # CABLE:
-Cable internet is a high-speed internet service that uses coaxial cable lines, the same infrastructure that delivers cable television. It typically provides faster speeds than DSL because it can carry more data.
+Cable internet is a high-speed internet service that uses coaxial cable lines, the same infrastructure that delivers cable television. It typically provides faster speeds than DSL because it can carry more data.<BR/>
+<BR/>
+<BR/>
 # FIBRE OPTICS:
-Fiber optics is a technology that uses thin strands of glass or plastic (fiber) to transmit data as light signals. This allows for extremely high-speed internet connections with greater bandwidth than traditional copper cables like those used in DSL and cable internet.
+Fiber optics is a technology that uses thin strands of glass or plastic (fiber) to transmit data as light signals. This allows for extremely high-speed internet connections with greater bandwidth than traditional copper cables like those used in DSL and cable internet.<BR/>
+<BR/>
+<BR/>
 # SATELLITE:
-Satellite internet is a type of internet connection that uses satellites to provide access to the internet. It’s particularly useful in rural or remote areas where traditional wired connections like DSL or cable may not be available. 
+Satellite internet is a type of internet connection that uses satellites to provide access to the internet. It’s particularly useful in rural or remote areas where traditional wired connections like DSL or cable may not be available. <BR/>
+<BR/>
+<BR/>
 # DNS:
-DNS, or Domain Name System, is a hierarchical system used to translate human-readable domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network. This process enables users to access websites using easy-to-remember names instead of numeric addresses.
+DNS, or Domain Name System, is a hierarchical system used to translate human-readable domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network. This process enables users to access websites using easy-to-remember names instead of numeric addresses.<BR/>
+<BR/>
+<BR/>
 # HYPERVISOR:
-Hypervisor, also known as a virtual machine monitor (VMM), is software that allows multiple operating systems to run concurrently on a single physical machine. It creates and manages virtual machines (VMs), enabling better resource utilization and isolation.
+Hypervisor, also known as a virtual machine monitor (VMM), is software that allows multiple operating systems to run concurrently on a single physical machine. It creates and manages virtual machines (VMs), enabling better resource utilization and isolation.<BR/>
 <br/>
 <br/>
-1. **_Type 1 Hypervisor (Bare-Metal)_**: Runs directly on the hardware without a host operating system. Examples include VMware ESXi, Microsoft Hyper-V, and Xen. Type 1 hypervisors generally offer better performance and efficiency.
+1. **_Type 1 Hypervisor (Bare-Metal)_**: Runs directly on the hardware without a host operating system. Examples include VMware ESXi, Microsoft Hyper-V, and Xen. Type 1 hypervisors generally offer better performance and efficiency.<BR/>
+<BR/>
 
-
-2. **_Type  Hypervisor (Hosted)_**: Runs on top of a host operating system. Examples include VMware Workstation and Oracle VirtualBox. While easier to set up, Type 2 hypervisors may have slightly lower performance due to the additional layer.
+2. **_Type  Hypervisor (Hosted)_**: Runs on top of a host operating system. Examples include VMware Workstation and Oracle VirtualBox. While easier to set up, Type 2 hypervisors may have slightly lower performance due to the additional layer.<BR/>
+<BR/>
+<BR/>
 # PROXY SERVER:
-A proxy server acts as an intermediary between a client (such as your computer) and the internet. It can mask your IP address, filter content, improve security, and cache data to improve performance.
+A proxy server acts as an intermediary between a client (such as your computer) and the internet. It can mask your IP address, filter content, improve security, and cache data to improve performance.<BR/>
+<BR/>
+<BR/>
 # APACHE:
-Apache refers to the Apache HTTP Server, often simply called Apache, which is one of the most popular and widely-used web server software packages in the world. Developed and maintained by the Apache Software Foundation, it is open-source, meaning it is free and accessible for anyone to use and modify.
+Apache refers to the Apache HTTP Server, often simply called Apache, which is one of the most popular and widely-used web server software packages in the world. Developed and maintained by the Apache Software Foundation, it is open-source, meaning it is free and accessible for anyone to use and modify.<BR/>
+<BR/>
+<BR/>
 # PACKETS:
 In computer networking, a packet is a small unit of data that is transmitted over a network. When you send data over the internet or any network, the information is broken down into smaller pieces called packets. These packets are then sent individually and reassembled by the recipient’s device to recreate the original message or file.
 # LOAD BALANCER:

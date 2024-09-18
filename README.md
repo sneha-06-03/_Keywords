@@ -107,6 +107,7 @@ A Virtual Machine (VM) is a software-based emulation of a physical computer that
 <BR/>
 # **SSL**:<BR/>
 SSL stands for Secure Sockets Layer, a protocol that encrypts and secures data sent between two devices or applications on the internet. It's used to establish trust and authenticate the other party before sharing data or credentials. <br/>
+<BR/>
 ![image](https://github.com/user-attachments/assets/c4f6cf2e-66c1-4bf2-afd9-d29ce4102abe)
 <BR/>
 <br/>
@@ -114,36 +115,52 @@ SSL stands for Secure Sockets Layer, a protocol that encrypts and secures data s
 # **FPGA**:<BR/>
 Field-Programmable Gate Array (FPGA) is an integrated circuit that can be programmed and reprogrammed after manufacturing. It's essentially a highly flexible and reusable digital circuit.<br/>
 <br/>
+![image](https://github.com/user-attachments/assets/791fc6cb-fcd4-4550-95af-bbe2bd26d1a7)
+<BR/>
 <br/>
 
 # **ISP**: <BR/>
 Internet Service Provider (ISP) is a company that provides internet access and related services to customers.<br/>
 <br/>
+![image](https://github.com/user-attachments/assets/d8034cd0-bb57-48f0-9287-7b98279f051c)
+<BR/>
 <br/>
 
 # DSL:<BR/>
 DSL stands for Digital Subscriber Line. It is a technology used to transmit high-speed internet over traditional telephone lines. DSL allows for internet and voice services to be used simultaneously, enabling faster data rates than standard dial-up connections. There are different types of DSL, such as ADSL (Asymmetric DSL), which is more common for residential use, and SDSL (Symmetric DSL), which provides equal upload and download speeds. DSL is popular in many areas due to its ability to leverage existing infrastructure.<BR/>
 <BR/>
+![image](https://github.com/user-attachments/assets/4b926744-8496-4858-9d02-982d668dcaf8)
+<BR/>
 <BR/>
 # CABLE:
 Cable internet is a high-speed internet service that uses coaxial cable lines, the same infrastructure that delivers cable television. It typically provides faster speeds than DSL because it can carry more data.<BR/>
+<BR/>
+![image](https://github.com/user-attachments/assets/a1b1a6db-0b44-4d3e-a84a-245a46a3875d)
 <BR/>
 <BR/>
 # FIBRE OPTICS:
 Fiber optics is a technology that uses thin strands of glass or plastic (fiber) to transmit data as light signals. This allows for extremely high-speed internet connections with greater bandwidth than traditional copper cables like those used in DSL and cable internet.<BR/>
 <BR/>
+![image](https://github.com/user-attachments/assets/20da9d73-7d86-4e44-88f5-17536462dc50)
+<BR/>
 <BR/>
 # SATELLITE:
 Satellite internet is a type of internet connection that uses satellites to provide access to the internet. It’s particularly useful in rural or remote areas where traditional wired connections like DSL or cable may not be available. <BR/>
+<BR/>
+![image](https://github.com/user-attachments/assets/e24c95c5-f984-4ea5-9fb4-06afa9d55cae)
 <BR/>
 <BR/>
 # DNS:
 DNS, or Domain Name System, is a hierarchical system used to translate human-readable domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network. This process enables users to access websites using easy-to-remember names instead of numeric addresses.<BR/>
 <BR/>
+![image](https://github.com/user-attachments/assets/807571dd-23f6-4d10-9f22-9fbbb302711a)
+<BR/>
 <BR/>
 # HYPERVISOR:
 Hypervisor, also known as a virtual machine monitor (VMM), is software that allows multiple operating systems to run concurrently on a single physical machine. It creates and manages virtual machines (VMs), enabling better resource utilization and isolation.<BR/>
 <br/>
+![image](https://github.com/user-attachments/assets/73601771-9a5b-4c1b-9848-264395ca5219)
+<BR/>
 <br/>
 1. **_Type 1 Hypervisor (Bare-Metal)_**: Runs directly on the hardware without a host operating system. Examples include VMware ESXi, Microsoft Hyper-V, and Xen. Type 1 hypervisors generally offer better performance and efficiency.<BR/>
 <BR/>
@@ -155,15 +172,21 @@ Hypervisor, also known as a virtual machine monitor (VMM), is software that allo
 # PROXY SERVER:
 A proxy server acts as an intermediary between a client (such as your computer) and the internet. It can mask your IP address, filter content, improve security, and cache data to improve performance.<BR/>
 <BR/>
+![image](https://github.com/user-attachments/assets/c0ddb20e-da93-4766-b285-0e0129200fec)
+<BR/>
 <BR/>
 
 # **APACHE**:
 Apache refers to the Apache HTTP Server, often simply called Apache, which is one of the most popular and widely-used web server software packages in the world. Developed and maintained by the Apache Software Foundation, it is open-source, meaning it is free and accessible for anyone to use and modify.<BR/>
 <BR/>
+![image](https://github.com/user-attachments/assets/1448ac62-2c6b-44bd-8167-f02fcb880f69)
+<BR/>
 <BR/>
 
 # **PACKETS**:
 In computer networking, a packet is a small unit of data that is transmitted over a network. When you send data over the internet or any network, the information is broken down into smaller pieces called packets. These packets are then sent individually and reassembled by the recipient’s device to recreate the original message or file.<BR/>
+<BR/>
+![image](https://github.com/user-attachments/assets/bf0f282f-ab0d-4ec3-acb2-30e433bb5fb6)
 <BR/>
 <BR/>
 

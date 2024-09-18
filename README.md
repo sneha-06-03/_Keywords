@@ -146,7 +146,7 @@ Hypervisor, also known as a virtual machine monitor (VMM), is software that allo
 2. **_Type  Hypervisor (Hosted)_**: Runs on top of a host operating system. Examples include VMware Workstation and Oracle VirtualBox. While easier to set up, Type 2 hypervisors may have slightly lower performance due to the additional layer.<BR/>
 <BR/>
 <BR/>
-# **PROXY SERVER**:
+# PROXY SERVER:
 A proxy server acts as an intermediary between a client (such as your computer) and the internet. It can mask your IP address, filter content, improve security, and cache data to improve performance.<BR/>
 <BR/>
 <BR/>

@@ -124,5 +124,6 @@ DSL stands for Digital Subscriber Line. It is a technology used to transmit high
 Cable internet is a high-speed internet service that uses coaxial cable lines, the same infrastructure that delivers cable television. It typically provides faster speeds than DSL because it can carry more data.
 # FIBRE OPTICS:
 Fiber optics is a technology that uses thin strands of glass or plastic (fiber) to transmit data as light signals. This allows for extremely high-speed internet connections with greater bandwidth than traditional copper cables like those used in DSL and cable internet.
-
+# SATELLITE:
+Satellite internet is a type of internet connection that uses satellites to provide access to the internet. It’s particularly useful in rural or remote areas where traditional wired connections like DSL or cable may not be available. 
 

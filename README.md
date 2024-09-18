@@ -170,4 +170,4 @@ The Von Neumann architecture is a computer design model that describes the struc
 DevOps is a set of practices, tools, and a culture aimed at automating and integrating the processes between software development (Dev) and IT operations (Ops). Its goal is to shorten the software development life cycle and provide continuous delivery with high software quality. DevOps promotes collaboration between development and operations teams, allowing organizations to build, test, and release software more rapidly and reliably.<BR/>
 <BR/>
 <BR/>
-# 
+

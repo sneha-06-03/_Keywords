@@ -100,6 +100,8 @@ Backend refers to the server-side of a web application or website, responsible f
 <BR/>
 # **VIRTUAL MACHINE**: <BR/>
 A Virtual Machine (VM) is a software-based emulation of a physical computer that runs an operating system (OS) and applications just like a physical machine. Virtual machines allow multiple operating systems to run on a single physical machine, each in its own isolated environment. <BR/>
+![image](https://github.com/user-attachments/assets/90260e94-5d07-4719-9321-5d1cc3db75d8)
+<BR/>
 <BR/>
 <BR/>
 # **SSL**:<BR/>

@@ -193,15 +193,21 @@ In computer networking, a packet is a small unit of data that is transmitted ove
 # **LOAD BALANCER**:
 A load balancer is a device or software that distributes incoming network traffic across multiple servers to ensure that no single server becomes overwhelmed with requests. By balancing the load evenly, it helps optimize resource use, minimize response time, and prevent server overloads. Load balancers are commonly used in high-traffic environments like large websites, cloud services, and applications.<BR/>
 <BR/>
+![image](https://github.com/user-attachments/assets/29acf19c-fa5e-47f4-8393-d62f9ba918b6)
+<BR/>
 <BR/>
 
 # **VON NEUMANN ARCHITECTURE**:
 The Von Neumann architecture is a computer design model that describes the structure of a stored-program digital computer. Named after mathematician and physicist John von Neumann, it forms the foundation of most modern computers and defines how they process instructions.<BR/>
 <BR/>
+![image](https://github.com/user-attachments/assets/0599078f-1057-467a-94ea-0bd4876d9bd2)
+<BR/>
 <BR/>
 
 # **DevOps**:
 DevOps is a set of practices, tools, and a culture aimed at automating and integrating the processes between software development (Dev) and IT operations (Ops). Its goal is to shorten the software development life cycle and provide continuous delivery with high software quality. DevOps promotes collaboration between development and operations teams, allowing organizations to build, test, and release software more rapidly and reliably.<BR/>
+<BR/>
+![image](https://github.com/user-attachments/assets/50f4321b-e9bb-4ffb-9e39-3791d14f2aa4)
 <BR/>
 <BR/>
 

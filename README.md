@@ -210,4 +210,39 @@ DevOps is a set of practices, tools, and a culture aimed at automating and integ
 ![image](https://github.com/user-attachments/assets/50f4321b-e9bb-4ffb-9e39-3791d14f2aa4)
 <BR/>
 <BR/>
+## Linux Bridge:
+A Linux bridge is a virtual network device that connects multiple network interfaces together, allowing them to communicate with each other.
+<br/>
+<br/>
+## OVS :
+Open vSwitch (OVS) is an open-source virtual switch software that enables network virtualization and provides a flexible, scalable, and high-performance networking solution for virtualized environments.
+<br/>
+<br/>
+## Tun / Tap :
+# TUN (Network TUNnel):*
 
+1. Creates a virtual point-to-point network interface.<br/>
+2. Emulates a network layer (L3) device.<br/>
+3. Used for VPNs (e.g., OpenVPN), tunneling protocols (e.g., GRE), and network emulation.<br/>
+<br/>
+
+# TAP (Network TAP):
+
+1. Creates a virtual Ethernet interface.<br/>
+2. Emulates a data link layer (L2) device.<br/>
+3. Used for virtualization, network bridging, and packet capture.<br/>
+<br/>
+# Key differences:
+
+1. Layer: TUN (L3) vs TAP (L2)<br/>
+2. Interface type: TUN (point-to-point) vs TAP (Ethernet)<br/>
+3. Use cases: TUN (VPNs, tunneling) vs TAP (virtualization, bridging)<br/>
+<br/>
+## CNI :
+CNI (Container Network Interface) is an open-source specification for configuring network interfaces for Linux containers.<br/>
+<br/>
+# CNI Components:
+
+1. CNI Plugin: Implements network configuration logic.<br/>
+2. CNI Runtime: Executes CNI plugin commands.<br/>
+3. CNI Configuration: Defines network settings.<br/>

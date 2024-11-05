@@ -218,27 +218,27 @@ A Linux bridge is a virtual network device that connects multiple network interf
 Open vSwitch (OVS) is an open-source virtual switch software that enables network virtualization and provides a flexible, scalable, and high-performance networking solution for virtualized environments.
 <br/>
 <br/>
-## Tun / Tap :
-# TUN (Network TUNnel):*
+# Tun / Tap :
+## TUN (Network TUNnel):*
 
 1. Creates a virtual point-to-point network interface.<br/>
 2. Emulates a network layer (L3) device.<br/>
 3. Used for VPNs (e.g., OpenVPN), tunneling protocols (e.g., GRE), and network emulation.<br/>
 <br/>
 
-# TAP (Network TAP):
+## TAP (Network TAP):
 
 1. Creates a virtual Ethernet interface.<br/>
 2. Emulates a data link layer (L2) device.<br/>
 3. Used for virtualization, network bridging, and packet capture.<br/>
 <br/>
-# Key differences:
+## Key differences:
 
 1. Layer: TUN (L3) vs TAP (L2)<br/>
 2. Interface type: TUN (point-to-point) vs TAP (Ethernet)<br/>
 3. Use cases: TUN (VPNs, tunneling) vs TAP (virtualization, bridging)<br/>
 <br/>
-## CNI :
+# CNI :
 CNI (Container Network Interface) is an open-source specification for configuring network interfaces for Linux containers.<br/>
 <br/>
 # CNI Components:
@@ -246,3 +246,6 @@ CNI (Container Network Interface) is an open-source specification for configurin
 1. CNI Plugin: Implements network configuration logic.<br/>
 2. CNI Runtime: Executes CNI plugin commands.<br/>
 3. CNI Configuration: Defines network settings.<br/>
+<br/>
+# VPC :
+Virtual Private Cloud (VPC) is a virtual networking environment within a cloud provider's infrastructure, allowing users to create isolated and secure networks.<br/>
